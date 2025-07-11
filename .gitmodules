@@ -1,0 +1,9 @@
+[submodule "gabarito-digital-data"]
+	path = gabarito-digital-data
+	url = https://github.com/cirillom/gabarito-digital-data.git
+[submodule "gabarito-digital-web"]
+	path = gabarito-digital-web
+	url = https://github.com/cirillom/gabarito-digital-web.git
+[submodule "gabarito-digital-flutter"]
+	path = gabarito-digital-flutter
+	url = https://github.com/cirillom/gabarito-digital-flutter.git
